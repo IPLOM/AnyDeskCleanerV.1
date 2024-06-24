@@ -52,6 +52,9 @@ This script, developed by **IPL**, provides a user-friendly interface to manage 
 ### Backup Recent Sessions 💽
 - Creates a backup of recent Anydesk session data.
 
+- ### Create AnyDesk Account 📝
+- If the above operations are not working, creates an account in AnyDesk.
+
 ## Usage 📘
 
 ### Run the Script 🏃‍♂️
