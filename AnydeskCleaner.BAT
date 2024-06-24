@@ -60,7 +60,7 @@ for /f "tokens=2" %%A in ('tasklist /FI "IMAGENAME eq Anydesk.exe" /NH') do (
 cls
 
 :: Reset Anydesk Configuration
-#Change The Name Of The User It Be IPL Change It To Make it Work 
+:: Change The Name Of The User It Be IPL Change It To Make it Work 
 echo Resetting Anydesk Configuration...
 cd /d C:\Users\IPL\AppData\Roaming\AnyDesk\
 if exist system.conf.backup del /f /q system.conf.backup
