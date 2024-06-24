@@ -61,7 +61,7 @@ cls
 
 :: Reset Anydesk Configuration
 echo Resetting Anydesk Configuration...
-cd /d C:\Users\IPL\AppData\Roaming\AnyDesk\
+cd /d C:\Users\User\AppData\Roaming\AnyDesk\
 if exist system.conf.backup del /f /q system.conf.backup
 if exist service.conf.backup del /f /q service.conf.backup
 if exist system.conf rename system.conf system.conf.backup
