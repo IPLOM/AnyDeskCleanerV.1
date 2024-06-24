@@ -46,6 +46,9 @@ This script, developed by **IPL**, provides a user-friendly interface to manage 
 - Replaces the current script with the updated version.
 - Restarts the script if the update is successful.
 
+### Backup Recent Sessions 💽
+- Creates a backup of recent Anydesk session data.
+
 ## Usage 📘
 
 ### Run the Script 🏃‍♂️
