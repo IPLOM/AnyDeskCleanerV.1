@@ -1,6 +1,9 @@
 # TheAnyDeskCleanerV.1 Open Source
 Anydesk Process Reset Tool For Ad Timer And More
 
+App Pass: IPL 
+GoodLuck
+
 # Anydesk Process Reset Tool 🚀
 
 This script, developed by **IPL**, provides a user-friendly interface to manage Anydesk processes on a Windows system. It offers three main functionalities: spoofing Anydesk and clearing its cache, exiting the program, and checking for script updates.
