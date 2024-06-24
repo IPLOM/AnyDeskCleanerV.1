@@ -1,4 +1,4 @@
-# AnyDeskCleanerV.1 Open Source
+# AnyDeskCleaner Open Source
 Anydesk Process Reset Tool For Ad Timer And More
 
 App Pass: IPL 
